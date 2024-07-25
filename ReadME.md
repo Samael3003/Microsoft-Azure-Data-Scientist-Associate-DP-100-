@@ -1,6 +1,6 @@
-# Build and Operate Machine Learning Solutions with Azure Machine Learning
+# Microsoft Azure Data Scientist Associate (DP-100) Professional Certificate
 
-Welcome to the repository for the "Build and Operate Machine Learning Solutions with Azure Machine Learning" course notes. This repository is part of my Open Source Learning initiative to share knowledge and resources related to machine learning and cloud computing.
+Welcome to the repository for the "Microsoft Azure Data Scientist Associate (DP-100) Professional Certificate" notes. This repository is part of my Open Source Learning initiative to share knowledge and resources related to machine learning and cloud computing.
 
 ## Course Overview
 
